@@ -3,7 +3,7 @@ steps:
     args:
     - functions
     - deploy
-    - function_prueba
+    - functionprueba
     - --region=europe-west1
     - --runtime
     - python311
