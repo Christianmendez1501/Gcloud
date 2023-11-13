@@ -9,5 +9,6 @@ steps:
     - python311
     - --trigger-bucket
     - gs://proyecto-gcp-christian1328
-    - --source=./files
+    - --source
+    - ./files
     - --allow-unauthenticated
