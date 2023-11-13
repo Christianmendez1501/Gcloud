@@ -1,2 +1,3 @@
-# Gcloud
-Gcloud run and functions
+# Welcome to my Gcloud Project
+
+Gcloud Functions
