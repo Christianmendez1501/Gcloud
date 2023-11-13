@@ -10,5 +10,5 @@ steps:
     - --trigger-bucket
     - gs://proyecto-gcp-christian1328
     - --source
-    - ./files
+    - ./app
     - --allow-unauthenticated
