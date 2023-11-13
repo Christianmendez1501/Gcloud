@@ -6,9 +6,8 @@ steps:
     - functionprueba
     - --region=europe-west1
     - --runtime
-    - python311
+    - python39
     - --trigger-bucket
     - gs://proyecto-gcp-christian1328
-    - --source
-    - ./app
+    - --source=./app
     - --allow-unauthenticated
