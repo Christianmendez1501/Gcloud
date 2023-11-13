@@ -9,5 +9,5 @@ steps:
     - python39
     - --trigger-bucket
     - gs://proyecto-gcp-christian1328
-    - --source=./app
+    - --source=./FUNCTIONS/app
     - --allow-unauthenticated
