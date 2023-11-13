@@ -6,7 +6,7 @@ steps:
     - function_prueba
     - --region=europe-west1
     - --runtime
-    - python311
+    - python39
     - --trigger-bucket
     - gs://proyecto-gcp-christian1328
     - --source
