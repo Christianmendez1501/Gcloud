@@ -5,6 +5,6 @@ def functionprueba(event, context):
          context (google.cloud.functions.Context): Metadata for the event.
     """
 
-    print("Vamos campeonnnnnnSSSnn1")
+    print("Vamos campeonnnnnnNNSSSSnn1")
     file = event
     print(f"Processing file: {file['name']}.")
