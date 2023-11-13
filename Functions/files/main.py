@@ -1,4 +1,4 @@
-def test(event, context):
+def function_prueba(event, context):
     """Triggered by a change to a Cloud Storage bucket.
     Args:
          event (dict): Event payload.
