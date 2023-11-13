@@ -4,5 +4,7 @@ def function_prueba(event, context):
          event (dict): Event payload.
          context (google.cloud.functions.Context): Metadata for the event.
     """
+
+    print("Lo  hice")
     file = event
     print(f"Processing file: {file['name']}.")
